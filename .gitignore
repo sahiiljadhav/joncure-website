@@ -1,0 +1,18 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.cjs
+
+# Builds
+.next
+out
+.vercel
+
+# Logs
+*.log
+.npm
+.pnpm-store
+
+# OS
+.DS_Store
+Thumbs.db
